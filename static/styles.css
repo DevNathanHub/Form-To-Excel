@@ -1,0 +1,18 @@
+/* static/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+input {
+    margin-bottom: 10px;
+}
